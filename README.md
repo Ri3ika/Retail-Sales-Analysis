@@ -1,4 +1,4 @@
-# 🛒 Project 01 — Retail Sales Analysis
+# 🛒 Project Retail Sales Analysis
 
 ## Overview
 End-to-end Exploratory Data Analysis on a retail sales dataset to uncover revenue drivers, seasonal trends, and regional performance insights.
