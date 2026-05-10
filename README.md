@@ -80,6 +80,6 @@ The project also includes an Excel summary report containing:
 
 [📥 Download Summary Report](outputs/summary_report.xlsx)
 
-## 📷 Dashboard Preview
+## 📷 Retail Dashboard
 
-![Dashboard](images/dashboard_preview.png)
+![Retail Dashboard](images/Retail_Sales_Dashboard.png)
