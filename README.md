@@ -79,3 +79,7 @@ The project also includes an Excel summary report containing:
 ## 📄 Download the Excel summary report here:
 
 [📥 Download Summary Report](outputs/summary_report.xlsx)
+
+## 📷 Dashboard Preview
+
+![Dashboard](images/dashboard_preview.png)
