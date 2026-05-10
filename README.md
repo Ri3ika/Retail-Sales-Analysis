@@ -54,16 +54,29 @@ jupyter notebook notebooks/Sales_Analysis.ipynb
 ```
 
 ## 📷 Preview
-# 📷 Project Visuals
+## 📷 Project Visuals
 
-## Dashboard Preview
+### Dashboard Preview
 ![Dashboard](images/dashboard_preview.png)
 
-## Monthly Sales Trend
-![Sales Trend](images/monthly_sales_trend.png)
+### Monthly Sales Trend
+![Sales Trend](outputs/monthly_sales_trend.png)
 
-## Category Revenue Analysis
-![Category Revenue](images/category_revenue.png)
+### Category Revenue Analysis
+![Category Revenue](outputs/category_revenue.png)
 
-## Regional Heatmap
-![Regional Heatmap](images/regional_heatmap.png)
+### Regional Heatmap
+![Regional Heatmap](outputs/regional_heatmap.png)
+
+---
+
+## 📄 Summary Report
+
+The project also includes an Excel summary report containing:
+- Revenue analysis
+- Sales trends
+- Regional performance insights
+- Business metrics overview
+
+📁 File:
+`outputs/summary_report.xlsx`
