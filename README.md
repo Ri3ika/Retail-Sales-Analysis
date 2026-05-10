@@ -76,5 +76,6 @@ The project also includes an Excel summary report containing:
 - Regional performance insights
 - Business metrics overview
 
-📁 File:
-`outputs/summary_report.xlsx`
+## 📄 Download the Excel summary report here:
+
+[📥 Download Summary Report](outputs/summary_report.xlsx)
