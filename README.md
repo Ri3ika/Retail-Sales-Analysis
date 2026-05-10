@@ -60,15 +60,13 @@ jupyter notebook notebooks/Sales_Analysis.ipynb
 ![Dashboard](images/dashboard_preview.png)
 
 ### Monthly Sales Trend
-![Sales Trend](outputs/monthly_sales_trend.png)
+![Sales Trend](images/monthly_sales_trend.png)
 
 ### Category Revenue Analysis
-![Category Revenue](outputs/category_revenue.png)
+![Category Revenue](images/category_revenue.png)
 
 ### Regional Heatmap
-![Regional Heatmap](outputs/regional_heatmap.png)
-
----
+![Regional Heatmap](images/regional_heatmap.png)
 
 ## 📄 Summary Report
 
