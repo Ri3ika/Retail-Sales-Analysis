@@ -54,4 +54,16 @@ jupyter notebook notebooks/Sales_Analysis.ipynb
 ```
 
 ## 📷 Preview
-> *(Add your chart screenshots to the images/ folder after running)*
+# 📷 Project Visuals
+
+## Dashboard Preview
+![Dashboard](images/dashboard_preview.png)
+
+## Monthly Sales Trend
+![Sales Trend](images/monthly_sales_trend.png)
+
+## Category Revenue Analysis
+![Category Revenue](images/category_revenue.png)
+
+## Regional Heatmap
+![Regional Heatmap](images/regional_heatmap.png)
